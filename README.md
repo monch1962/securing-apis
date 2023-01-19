@@ -7,6 +7,8 @@ Collection of notes &amp; techniques relating to API security
 
 ## OWASP
 
+## Traffic encryption
+
 ## Content scanning
 
 ## Authentication & authorisation
